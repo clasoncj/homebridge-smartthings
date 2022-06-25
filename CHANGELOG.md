@@ -1,3 +1,10 @@
+## v.2.3.10
+
+Updating axios for security patch
+
+## v2.3.9
+Clone of master branch
+
 ## v2.3.8
 
 - [UPDATE] Updated dependencies.
