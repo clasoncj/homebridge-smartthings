@@ -57,12 +57,12 @@
     },
     "main": "src/index.js",
     "license": "ISC",
-    "name": "homebridge-smartthings",
+    "name": "homebridge-smartthings-cjc",
     "preferGlobal": true,
-    "repository": "github:https://github.com/tonesto7/homebridge-smartthings",
+    "repository": "github:https://github.com/clasoncj/homebridge-smartthings",
     "bugs": {
-        "url": "http://github.com/tonesto7/homebridge-smartthings/issues"
+        "url": "http://github.com/clasoncj/homebridge-smartthings/issues"
     },
-    "version": "2.3.8",
+    "version": "2.3.9",
     "snyk": true
 }
